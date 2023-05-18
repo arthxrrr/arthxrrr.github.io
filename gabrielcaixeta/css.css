@@ -1,0 +1,56 @@
+body {
+
+background-color: black;  
+
+}
+
+#home {
+
+color: yellow;
+font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+text-decoration: none;
+float: right;
+margin-right: 25px;
+    
+ }
+    
+ #redessociais {
+    
+color: yellow;
+font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+text-decoration: none;
+float: right;
+margin-right: 25px;
+    
+    }
+    
+#projetos {
+    
+color: yellow;
+font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+text-decoration: none;
+float: right;
+margin-right: 25px;
+    
+}
+
+#git{
+
+width: 700px;
+height: 20px;
+font-family: 'Courier New', Courier, monospace;
+        
+}
+            
+label{
+color: coral;
+        
+}
+
+input {
+   border-color: purple;
+}
+
+fieldset {
+    border:dotted purple;
+}
